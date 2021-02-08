@@ -9,5 +9,5 @@ StudentProject  <br />
 Kérje be, hogy egy diák melyik évfolyam melyik osztályába jár (pl. 10 évfolyam „c” osztálya)! Az adatbekérés legyen felhasználóbarát!  <br />  
 ### 3. feladat    
 AthleticsCompetitionProject   <br /> 
-Kérje be, hogy az atlétikai versenyen a diák távolugrásban (méter mértékegységben), magasugrásban (méter mértékegységben) és 100 méteres síkfutásban (másodperc mértékegységben, két tizedes pontosság) milyen eredményt ért el! Az adatbekérés legyen felhasználóbarát!  <br /> 
+Kérje be, hogy az atlétikai versenyen a diák távolugrásban (méter mértékegységben), magasugrásban (méter mértékegységben) és 100 méteres síkfutásban (másodperc mértékegységben) milyen eredményt ért el! Az adatbekérés legyen felhasználóbarát!  <br /> 
 
